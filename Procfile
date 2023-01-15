@@ -1,1 +1,1 @@
-worker: python3 -m unzipper
+unzipper: bash start.sh
