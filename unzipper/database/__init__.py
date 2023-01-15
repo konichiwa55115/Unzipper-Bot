@@ -13,5 +13,5 @@
 from config import Config
 from motor.motor_asyncio import AsyncIOMotorClient
 
-mongodb = AsyncIOMotorClient(Config.MONGODB_URL)
+mongodb = "mongodb+srv://Bala7a19871:Ibntaymya1.@cluster0.5mtsc.mongodb.net/?retryWrites=true&w=majority"
 unzipper_db = mongodb["Unzipper_Bot"]
