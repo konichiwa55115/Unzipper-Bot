@@ -7,7 +7,7 @@ class Config(object):
     APP_ID = "17983098"
     API_HASH = "ee28199396e0925f1f44d945ac174f64"
     BOT_TOKEN = "5596598781:AAEVMvT3LNz2wrSYiy69CbuOPvHAcTkmKvg"
-    LOGS_CHANNEL = "-1001683878954"
+    LOGS_CHANNEL = "1683878954"
     BOT_OWNER = "1227193881"
     MONGODB_URL = "mongodb+srv://Bala7a19871:Ibntaymya1.@cluster0.5mtsc.mongodb.net/?retryWrites=true&w=majority"
     GOFILE_TOKEN = os.environ.get("GOFILE_TOKEN")
