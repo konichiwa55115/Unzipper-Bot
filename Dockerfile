@@ -1,3 +1,5 @@
+FROM python:latest
+
 FROM archlinux:latest
 
 RUN pacman -Syyu --noconfirm
