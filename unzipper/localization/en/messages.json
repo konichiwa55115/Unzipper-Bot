@@ -1,7 +1,7 @@
 {
     "this_lang": "en",
 
-    "start": "Hi **{}**, I'm **Nexa Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Made with ❤️ by @NexaBotsUpdates**",
+    "start": "السلام عليكم يا  **{}**, أنا بوت أقوم بفك ضغط الملفات  !\n\n`فقط أرسل أي ملف مضغوط و سأقوم بفك الضغط عنه`\n\n لبقية البوتات هنا \n\n https://t.me/ibnAlQyyim/1120 \n\n لدعم استمرار المشروع هنا \n\n http://paypal.me/kelectronic89 \n\n تم تطويره بواسطة @NexaBotsUpdates  ",
     "about": "**About Nexa Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)\n✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)\n\n\n**Made with ❤️ by @NexaBotsUpdates**",
     
     "processing": "`Processing ⚙️...`",
