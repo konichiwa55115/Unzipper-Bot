@@ -3,7 +3,7 @@ FROM archlinux:latest
 RUN pacman -Syyu --noconfirm
 RUN pacman -S --noconfirm python-pip zstd p7zip gcc
 RUN pip3 install -U pip
-RUN mkdir /app/
+RUN mkdir /app/ --user
 WORKDIR /app/
 COPY . /app/
 RUN pip3 install -U setuptools
