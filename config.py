@@ -10,7 +10,7 @@ class Config(object):
     LOGS_CHANNEL = int(-1001683878954)
     BOT_OWNER = "1227193881"
     MONGODB_URL = "mongodb+srv://Bala7a19871:Ibntaymya1.@cluster0.5mtsc.mongodb.net/?retryWrites=true&w=majority"
-    GOFILE_TOKEN = os.environ.get("GOFILE_TOKEN")
+    GOFILE_TOKEN = "HO75GEYmgInFgg8rKoUH9EAqSENuB3GU"
     # Optional
     MAX_DOWNLOAD_SIZE = int(os.environ.get("MAX_DOWNLOAD_SIZE")) if os.environ.get("MAX_DOWNLOAD_SIZE") else 10737418240
     # Constents
