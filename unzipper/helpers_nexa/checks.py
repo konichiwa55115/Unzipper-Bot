@@ -12,7 +12,7 @@
 
 
 import logging
-from pyrogram.enums.chat_type import CHANNEL
+from pyrogram.pyrogram.enums.chat_type import CHANNEL
 from unzipper import unzip_client
 from config import Config
 
