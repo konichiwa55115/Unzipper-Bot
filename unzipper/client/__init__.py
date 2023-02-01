@@ -11,4 +11,4 @@
 # ===================================================================== #
 
 from .patcher import init_patch
-from .pyro_client import UnzipperBot
+from .pyro_client import Unzipper-Bot
