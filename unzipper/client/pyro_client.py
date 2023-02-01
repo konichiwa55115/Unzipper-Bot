@@ -39,7 +39,7 @@ class UnzipperBot(Client):
                          api_id=Config.APP_ID,
                          api_hash=Config.API_HASH,
                          bot_token=Config.BOT_TOKEN,
-                         plugins=root="unzipper/modules",
+                         plugins= dict(root="plugins"),
                          sleep_threshold=10)
 
     ######## Decorators ########
